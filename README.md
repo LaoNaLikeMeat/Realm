@@ -20,7 +20,7 @@
 
 国外机器
 
-wget -N [https://raw.githubusercontent.com/shiyi11yi/EZRealm/main/realm.sh](https://github.com/LaoNaLikeMeat/Realm/raw/refs/heads/main/realm.sh) && chmod +x realm.sh && ./realm.sh
+wget -N [[https://raw.githubusercontent.com/shiyi11yi/EZRealm/main/realm.sh](https://github.com/LaoNaLikeMeat/Realm/raw/refs/heads/main/realm.sh)](https://raw.githubusercontent.com/LaoNaLikeMeat/Realm/refs/heads/main/realm.sh) && chmod +x realm.sh && ./realm.sh
 
 国内机器
 
