@@ -24,6 +24,6 @@ wget -N https://raw.githubusercontent.com/LaoNaLikeMeat/Realm/refs/heads/main/re
 
 国内机器
 
-wget -N https://raw.githubusercontent.com/shiyi11yi/EZRealm/main/CN/realm.sh && chmod +x realm.sh && ./realm.sh
+wget -N https://raw.githubusercontent.com/LaoNaLikeMeat/Realm/refs/heads/main/CN/realm.sh && chmod +x realm.sh && ./realm.sh
 
 再次运行本脚本只需要输入./realm.sh 回车即可
